@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "title": "Обучение Warhammer 40к",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Keno_mini_wargame.jpg",
+      "date": "10.02.2022",
+      "price": "200",
+      "type": "demo",
+      "description": "Игра на 500 очков миниатюрами клуба. ",
+      "id": 3
+    },
+    {
+      "title": "Турнир по Warcry",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOYyKhF5Kxy_aJFi6M5OIGFDn4LMvLEzyQwg&usqp=CAU",
+      "date": "15.02.2022",
+      "price": "550",
+      "type": "tournament ",
+      "description": "Турнир по Warcry. Обязательная регистрация через электронную почту клуба.",
+      "id": 4
+    },
+    {
+      "title": "Вечер казуальных игр",
+      "image": "https://habrastorage.org/files/fa1/d6b/640/fa1d6b640d2d45c98576aa5b326a5b19.jpg",
+      "date": "20.02.2022",
+      "price": "450",
+      "type": "casual",
+      "description": "Вечер в компании друзей и казуальных игр. Начало в 19:00",
+      "id": 5
+    },
+    {
+      "title": "Лига Necromunda",
+      "image": "https://cdn.vox-cdn.com/thumbor/BLBZF3KkyQPUyHZyjKCCvBiShIs=/0x0:5184x3456/1200x675/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/69373799/P5280311_cropped.0.jpg",
+      "date": "30.02.2022",
+      "price": "350",
+      "type": "league",
+      "description": "Очередная серия игр лиги Necromunda.",
+      "id": 6
+    },
+    {
+      "title": "Турнир по Underworls",
+      "image": "https://www.warhammer-community.com/wp-content/uploads/2021/09/JJQAvp2Z0v0zForn.jpg",
+      "date": "01.03.2022",
+      "price": 600,
+      "type": "tournament ",
+      "description": "Турнир по Warhammer:Underworlds. Правила Direcasm.",
+      "id": 7
+    },
+    {
+      "title": "Хобби вечер",
+      "image": "https://i1.wp.com/boingboing.net/wp-content/uploads/2018/08/miniPainting.jpg?fit=1499%2C888&ssl=1",
+      "date": "17.02.2022",
+      "price": 300,
+      "type": "painting",
+      "description": "Вечер обучения покрасу миниатюр под присмотром опытного наставника.",
+      "id": 8
+    },
+    {
+      "title": "Хобби вечер",
+      "image": "https://i1.wp.com/boingboing.net/wp-content/uploads/2018/08/miniPainting.jpg?fit=1499%2C888&ssl=1",
+      "date": "17.02.2022",
+      "price": 777,
+      "type": "painting",
+      "description": "Вечер обучения покрасу миниатюр под присмотром опытного наставника.",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "comment": "Самый лучший клуб на свете!",
+      "name": "Ульяна",
+      "date": "",
+      "price": null,
+      "id": 3
+    },
+    {
+      "comment": "Идеальное место, чтобы поигать в настолки с друзьями",
+      "name": "Сезим",
+      "date": "",
+      "price": null,
+      "id": 4
+    },
+    {
+      "comment": "Потрясающий сайт! Самый лучший на свете!",
+      "name": "Анастасия",
+      "date": "",
+      "price": null,
+      "id": 5
+    }
+  ]
+}
